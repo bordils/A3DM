@@ -1,0 +1,4 @@
+#!/bin/bash
+VIEWERDIR=$(dirname $0)
+export LD_LIBRARY_PATH=/assig/sgi/OM-6.3/lib
+$VIEWERDIR/QtViewer

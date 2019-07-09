@@ -1,0 +1,5 @@
+*.o
+*~
+QtViewer
+moc_*
+Makefile
